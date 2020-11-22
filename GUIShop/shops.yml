@@ -343,7 +343,7 @@ FarmingDrops:
   '36':
     type: SHOP
     id: WITHER_ROSE
-    buy-price: 100.0
+    buy-price: 200.0
     sell-price: 10
 Brewing:
   '0':
@@ -507,7 +507,7 @@ Gear:
   '27':
     type: SHOP
     id: SHIELD
-    buy-price: 100.0
+    buy-price: 50.0
 Spawners:
   '0':
     type: SHOP
