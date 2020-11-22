@@ -60,11 +60,12 @@ Raiding:
   '2':
     type: SHOP
     id: REDSTONE_BLOCK
-    buy-price: 150.0
-    sell-price: 50.0
+    buy-price: 135.0
+    sell-price: 45.0
   '3':
     type: SHOP
     id: DROPPER
+    buy-price: 90.0
   '4':
     type: SHOP
     id: DISPENSER
@@ -236,7 +237,7 @@ FarmingDrops:
   '14':
     type: SHOP
     id: BROWN_MUSHROOM
-    buy-price: 30.0
+    buy-price: 5.0
   '15':
     type: SHOP
     id: RED_MUSHROOM
@@ -318,7 +319,8 @@ FarmingDrops:
   '31':
     type: SHOP
     id: GOLD_NUGGET
-    buy-price: 100.0
+    buy-price: 8.0
+    sell-price: 1.0
   '32':
     type: SHOP
     id: GHAST_TEAR
@@ -338,6 +340,11 @@ FarmingDrops:
     type: SHOP
     id: SHULKER_SHELL
     buy-price: 2000.0
+  '36':
+    type: SHOP
+    id: WITHER_ROSE
+    buy-price: 100.0
+    sell-price: 10
 Brewing:
   '0':
     type: SHOP
@@ -357,25 +364,33 @@ Brewing:
     type: SHOP
     id: GOLDEN_CARROT
     buy-price: 25.0
-  '5':
+  '4':
     type: SHOP
     id: BLAZE_ROD
-    buy-price: 7.0
-    sell-price: 2.0
-  '6':
+    buy-price: 100.0
+    sell-price: 10.0
+  '5':
     type: SHOP
     id: NETHER_WART
     buy-price: 12.0
     sell-price: 3.0
-  '7':
+  '6':
     type: SHOP
     id: MAGMA_CREAM
     buy-price: 20.0
     sell-price: 10.0
-  '8':
+  '7':
     type: SHOP
     id: BREWING_STAND
     buy-price: 100.0
+  '8':
+    type: SHOP
+    id: GLASS_BOTTLE
+    buy-price: 80.0
+  '9':
+    type: SHOP
+    id: GLISTERING_MELON
+    buy-price: 25.0
 Gear:
   '0':
     type: SHOP
@@ -489,6 +504,10 @@ Gear:
     id: SADDLE
     buy-price: 75.0
     sell-price: 30.0
+  '27':
+    type: SHOP
+    id: SHIELD
+    buy-price: 100.0
 Spawners:
   '0':
     type: SHOP
@@ -629,9 +648,9 @@ Blocks:
     buy-price: 20.0
   '22':
     type: SHOP
-    id: WHITE_WOOL
-    buy-price: 30.0
-    sell-price: 10.0
+    id: SOUL_SOIL
+    buy-price: 20.0
+    sell-price: 2.0
   '23':
     type: SHOP
     id: CLAY
@@ -661,7 +680,7 @@ Blocks:
   '29':
     type: SHOP
     id: GLASS
-    buy-price: 80.0
+    buy-price: 60.0
     sell-price: 6.0
   '30':
     type: SHOP
@@ -732,7 +751,7 @@ Blocks:
   '45':
     type: SHOP
     id: WHITE_WOOL
-    buy-price: 30.0
+    buy-price: 50.0
     sell-price: 5.0
   '46':
     type: SHOP
